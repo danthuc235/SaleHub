@@ -1,0 +1,40 @@
+.circle {
+    background-color: rgb(248, 184, 162);
+    height: 30px;
+    font-weight: bolder;
+    border-radius: 50%;
+
+
+}
+
+.tron {
+    height: 20px;
+    width: 30px;
+    padding-top: 1px;
+    font-size: 20px;
+}
+
+.btnMod {
+    border: 0;
+}
+
+.btnMod:hover {
+    transform: scale(1.1);
+}
+
+.w-85 {
+    width: 95%;
+}
+
+.root {
+    top: 80%;
+    left: 5%;
+}
+
+.mt-10 {
+    margin-top: 300px;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
